@@ -9,7 +9,10 @@ quickly need a lot of VMs…more servers, more problems
 chef recipes for managing your server…mostly stock
 application migration – were running on VMs and migrating to physical servers
 application upgrading - 
+
 ### Unicorn 
+
+Run Nginx straight through Unicorn
 
 * fast
 * kernel load-balancing
