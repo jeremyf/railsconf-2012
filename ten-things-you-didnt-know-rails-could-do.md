@@ -1,6 +1,8 @@
 # -Ten- 42 Things You Didn't Know Rails Could Do
 by James Edward Gray II
 
+https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-rails-could-do
+
 ## Presentation
 
 Rails 3.2.3 Can…
